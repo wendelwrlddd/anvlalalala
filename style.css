@@ -47,7 +47,10 @@ h2{ font-family: 'Roboto', 'Arial', sans-serif;
     display: flex; 
     justify-content: center;
 } 
- 
+  
+audio {
+    visibility: hidden;
+  }
 
 
   
